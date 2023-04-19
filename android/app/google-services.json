@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "975013853203",
+    "project_id": "integrate-e2118",
+    "storage_bucket": "integrate-e2118.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975013853203:android:860f8e152a84d6be1d27e6",
+        "android_client_info": {
+          "package_name": "com.example.integrate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975013853203-46s7407us7lij14et0g0nm5ihqgn5euf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYXiyG46LFo3UNySLRjGKYxgUZNqc9-vA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975013853203-46s7407us7lij14et0g0nm5ihqgn5euf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
